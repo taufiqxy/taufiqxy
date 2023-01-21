@@ -1,7 +1,7 @@
-# Halo semua! 
+# Hello, My Name's Taufiq Hidayat
 
-Perkenalkan nama saya **Taufiq Hidayat**.<br>
-Saya adalah seorang <i>data science enthusiast</i>. <br>
-Selain itu saya juga tertarik pada software engineer khusus <i>back-end</i>. <br>
+I'm a data science enthusiast. <br>
 
-Jika kamu tertarik untuk berkenalan denganku, kamu dapat menemukan aku di akun [Linkedin](https://www.linkedin.com/in/taufiq-hidayat-th/)-ku ya.
+I'm also interested in back-end software engineer<br>
+
+If you interested you can find me in my [Linkedin Account](https://www.linkedin.com/in/taufiq-hidayat-th/).
