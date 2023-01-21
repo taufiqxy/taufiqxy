@@ -1,4 +1,4 @@
-**Hello, I'm Taufiq Hidayat**
+Hello, I'm Taufiq Hidayat
 --
 
 I'm a data science enthusiast. <br>
