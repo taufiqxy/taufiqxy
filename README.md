@@ -1,8 +1,8 @@
 Hi 👋, I'm Taufiq Hidayat
 --
 <pre>
-I'm a data science enthusiast.
-I'm also interested in back-end software engineer.
+I'm A Data Science Enthusiast (Especially Machine Learning).
+I'm Also Interested in Software Engineer (Especially Back-End).
 </pre>
 
 ### Tech Stack
