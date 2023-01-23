@@ -21,5 +21,5 @@ I'm Also Interested in Software Engineer (Especially Back-End).
 
 ### Reach Me On
 <pre>
-If you're interested, you can find me on my <a href="https://www.linkedin.com/in/taufiq-hidayat-th/">Linked account</a>.
+You can find me on my <a href="https://www.linkedin.com/in/taufiq-hidayat-th/">Linked account</a>.
 </pre>
