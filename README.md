@@ -14,8 +14,6 @@ I'm Also Interested in Software Engineer (Especially Back-End).
 
 <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
 
-<a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
-
 <br>
 <br>
 
