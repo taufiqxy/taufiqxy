@@ -13,6 +13,8 @@ Data Science Enthusiast (Especially Machine Learning) and Software Engineer (Esp
 
 <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
 
+<a href="https://hapi.dev/"><img align="left" alt="HapiJS" title="HapiJS" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
+
 <br>
 <br>
 
