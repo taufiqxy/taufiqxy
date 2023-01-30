@@ -20,5 +20,5 @@ Data Science Enthusiast (Especially Machine Learning) and Software Engineer (Esp
 
 ### Reach Me On
 <pre>
-You can find me on my <a href="https://www.linkedin.com/in/taufiq-hidayat-th/">Linked account</a>.
+Can be found on <a href="https://www.linkedin.com/in/taufiq-hidayat-th/">Linkedin</a>.
 </pre>
