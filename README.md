@@ -1,7 +1,7 @@
 Hi 👋, I'm Taufiq Hidayat
 --
 <pre>
-Data Science (especially Machine Learning) and Software Engineering (especially Back-End) enthusiast.
+Software Engineering (especially Back-End) and Data Science (especially Machine Learning) enthusiast.
 </pre>
 
 ### Tech Stack
