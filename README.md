@@ -15,7 +15,7 @@ Software Engineering (especially Back-End) and Data Science (especially Machine 
 
 <a href="https://hapi.dev/"><img align="left" alt="HapiJS" title="HapiJS" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
 
-<a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://en.wikipedia.org/wiki/Laravel#/media/File:Laravel.svg" /></a>
+<a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
 
 <br>
 <br>
