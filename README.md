@@ -15,7 +15,7 @@ Backend Engineer and Data Science enthusiast.
 
 <a href="https://hapi.dev/"><img align="left" alt="HapiJS" title="HapiJS" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
 
-<a href="https://go.dev/"><img align="left" alt="GO" title="GO" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" /></a>
+<a href="https://go.dev/"><img align="left" alt="GO" title="GO" width="21px" src="https://raw.githubusercontent.com/taufiqxy/public-data/main/go.png" /></a>
 
 <br>
 <br>
